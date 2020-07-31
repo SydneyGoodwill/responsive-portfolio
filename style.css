@@ -1,1 +1,16 @@
 /* This is the start to my CSS */
+ .nav-link {
+    @include float-right;
+  }
+
+.navbar-brand {
+      background-color: teal;
+      color: white !important;
+}
+
+.col {
+    border-color: black !important;
+    border-width: 25px;
+    background-color: white !important;
+    color: gray;
+}
