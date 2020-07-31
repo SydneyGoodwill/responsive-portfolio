@@ -1,16 +1,29 @@
-/* This is the start to my CSS */
- .nav-link {
-    @include float-right;
-  }
+/* This is my CSS outside of bootstrap */
+
+body {
+  background-color: #17a2b8;
+}
+
+
 
 .navbar-brand {
       background-color: teal;
       color: white !important;
 }
 
-.col {
-    border-color: black !important;
-    border-width: 25px;
+.white-box {
     background-color: white !important;
     color: gray;
+    padding: 36px 15px;
+    height: 800px;
+    width: 90%;
+    margin: 21px;
+}
+
+.p {
+  float: right;
+}
+
+.img {
+  box-sizing: border-box;
 }
