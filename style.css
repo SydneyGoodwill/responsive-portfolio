@@ -4,20 +4,18 @@ body {
   background-color: #17a2b8;
 }
 
-
-
 .navbar-brand {
-      background-color: teal;
-      color: white !important;
+  background-color: teal;
+  color: white !important;
 }
 
 .white-box {
-    background-color: white !important;
-    color: gray;
-    padding: 36px 15px;
-    height: 800px;
-    width: 90%;
-    margin: 21px;
+  background-color: white !important;
+  color: gray;
+  padding: 36px 15px;
+  height: 800px;
+  width: 90%;
+  margin: 21px;
 }
 
 .p {
